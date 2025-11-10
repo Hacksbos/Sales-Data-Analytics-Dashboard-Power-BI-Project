@@ -7,6 +7,8 @@ This project analyzes sales performance across regions, products, categories, an
 
 ![Sales Data Dashboard](https://github.com/Hacksbos/Sales-Data-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-11-10%20104131.png)
 
+
+
 ✅ 📁 Project Overview
 
 This project provides a complete 360° analysis of sales data by answering important business questions like:
@@ -29,6 +31,8 @@ Insights using Month/Category slicers
 
 The dashboard delivers clear, actionable insights for better decision-making.
 
+
+
 ✅ 🎯 Project Objectives
 
 Analyze overall sales and profit performance
@@ -47,6 +51,8 @@ Provide interactive slicers for deeper analysis
 
 Support business planning using data-driven insights
 
+
+
 ✅ 🗂 Dataset Description
 
 The dataset includes the following fields:
@@ -58,6 +64,8 @@ Category	Product category
 Region	East, West, North, South
 Sales	Revenue generated
 Profit	Profit earned from sales
+
+
 ✅ 📌 Key Business Questions Solved
 
 What is the total sales revenue and total profit generated in the entire period?
@@ -90,6 +98,8 @@ Where do sales deviate from the normal trend?
 
 What insights appear when combining filters?
 
+
+
 ✅ 📈 Dashboard Features
 
 KPIs: Total Sales, Total Profit
@@ -107,6 +117,8 @@ Interactive Visuals: Cross-filtering enabled
 Clean & professional layout
 
 Color-coded insights
+
+
 
 ✅ 💡 Insights Gained
 
@@ -126,6 +138,8 @@ Profit does not always increase proportionally with sales.
 
 Low-performing regions show potential growth opportunities.
 
+
+
 ✅ 🏆 Business Impact / Benefits
 
 Better decision-making with clear visuals
@@ -144,6 +158,8 @@ Faster business insights
 
 Strong competitive advantage
 
+
+
 ✅ 🛠 Tools & Technologies
 
 Power BI Desktop
@@ -156,12 +172,16 @@ Excel/CSV Dataset
 
 Data Visualization Techniques
 
+
+
 ✅ 📷 Dashboard Preview
 
 (Insert your dashboard screenshot here)
 Add a screenshot like this:
 
 ![Sales Dashboard](dashboard_image.png)
+
+
 
 ✅ 📂 Project Structure
 ├── Dataset/
@@ -171,6 +191,8 @@ Add a screenshot like this:
 ├── README.md
 └── Images/
     └── Dashboard_Screenshot.png
+
+
 
 ✅ 📌 How to Use This Project
 
@@ -184,8 +206,13 @@ Modify visuals, colors, and DAX measures as required.
 
 Refresh dashboard to generate insights.
 
+
+
 ✅ 📧 Contact / Connect
 
 If you want help or want to collaborate:
 
 GitHub: (https://github.com/Hacksbos)
+
+
+Linkdin:(https://www.linkedin.com/in/sanjeet-kumar-41591835a/?

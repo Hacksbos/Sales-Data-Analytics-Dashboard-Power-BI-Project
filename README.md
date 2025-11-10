@@ -5,8 +5,7 @@ This project analyzes sales performance across regions, products, categories, an
 
 ## 📷 Dashboard Preview
 
-![Sales Data Dashboard](https://github.com/yourusername/your-repository-name/blob/main/Images/Sales_Dashboard.png)
-
+![Sales Data Dashboard](https://github.com/Hacksbos/Sales-Data-Analytics-Dashboard-Power-BI-Project/blob/main/Screenshot%202025-11-10%20104131.png)
 
 ✅ 📁 Project Overview
 
